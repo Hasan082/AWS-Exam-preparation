@@ -1,6 +1,4 @@
-# AWS-Exam-preparation
-
-AWS S3 & CLI Practical Study Guide
+## AWS S3 & CLI Practical Study Guide
 
 # AWS S3 & CLI Practical Study Guide – For AWS Developer Role & DVA-C02 Exam
 
@@ -67,4 +65,3 @@ aws s3 cp test.txt s3://$BUCKET/
 [ ] Policy
 [ ] App use-case
 
-<img width="432" height="648" alt="image" src="https://github.com/user-attachments/assets/7dbe451e-6b8e-4587-88d8-c45e6d96b7cd" />
